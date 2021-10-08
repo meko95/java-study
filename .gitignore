@@ -1,5 +1,8 @@
 # Compiled class file
 *.class
+./netty/target
+./netty/${project.build.directory}
+*.iml
 
 # Log file
 *.log
